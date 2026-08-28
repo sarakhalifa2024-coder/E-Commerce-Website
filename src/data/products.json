@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 99.99,
+      "category": "Electronics",
+      "description": "Premium wireless headphones with noise cancellation and 30-hour battery life. Experience crystal clear audio and comfortable fit for all-day wear.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 249.99,
+      "category": "Electronics",
+      "description": "Track your fitness, receive notifications, and monitor your health with this advanced smart watch. Features heart rate monitor and GPS.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Cotton T-Shirt",
+      "price": 19.99,
+      "category": "Clothing",
+      "description": "Soft, breathable 100% cotton t-shirt. Available in multiple colors. Perfect for everyday wear.",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Programming Book",
+      "price": 45.99,
+      "category": "Books",
+      "description": "Learn modern web development with this comprehensive guide. Covers React, Node.js, and more.",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=300",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Gaming Mouse",
+      "price": 59.99,
+      "category": "Electronics",
+      "description": "High-precision gaming mouse with customizable RGB lighting and programmable buttons.",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300",
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Denim Jacket",
+      "price": 89.99,
+      "category": "Clothing",
+      "description": "Classic denim jacket that never goes out of style. Durable and comfortable fit.",
+      "image": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=300",
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Wireless Keyboard",
+      "price": 79.99,
+      "category": "Electronics",
+      "description": "Slim wireless keyboard with long battery life and quiet keys. Perfect for home or office.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Sneakers",
+      "price": 129.99,
+      "category": "Clothing",
+      "description": "Comfortable and stylish sneakers for daily wear. Cushioned sole for all-day comfort.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Fiction Novel",
+      "price": 15.99,
+      "category": "Books",
+      "description": "Bestselling fiction novel that will keep you turning pages late into the night.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=300",
+      "featured": false
+    }
+  ]
+}
